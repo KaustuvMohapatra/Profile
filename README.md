@@ -61,10 +61,3 @@
 </p>
 
 ---
-
-### 🖼️ GitHub Stats Card (from my own generator project)
-
-> Powered by [GitHub Stats Generator](https://github.com/KaustuvMohapatra/github-stats-generator)
-
-```markdown
-![Custom Card](https://your-stats-generator.com/api/card?username=KaustuvMohapatra&theme=cyberpunk)
