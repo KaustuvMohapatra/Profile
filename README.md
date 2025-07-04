@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **[GitHub Stats Generator](https://github.com/KaustuvMohapatra/github-stats-generator)**  
+- 🔭 I’m currently working on Unity based Game. 
 - 🌱 I’m currently learning **Unity Game Development, Flask + Gemini API, and NLP**  
 - 💬 Ask me about **Python, Flask, JavaScript, and AI tools**  
 
