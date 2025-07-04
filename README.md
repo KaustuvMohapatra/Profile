@@ -55,8 +55,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="[https://twitter.com/your_twitter](https://x.com/KaustuvM1)" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kaustuv-mohapatra-b0538428b/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/KaustuvM1" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kaustuv-mohapatra-b0538428b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.com/users/zeusmonsterx" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 </p>
 
