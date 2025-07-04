@@ -67,4 +67,4 @@
 > Powered by [GitHub Stats Generator](https://github.com/KaustuvMohapatra/github-stats-generator)
 
 ```markdown
-![Custom Card](https://your-stats-generator.com/api/card?username=your-username&theme=cyberpunk)
+![Custom Card](https://your-stats-generator.com/api/card?username=KaustuvMohapatra&theme=cyberpunk)
